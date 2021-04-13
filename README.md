@@ -8,4 +8,4 @@ Concepts covered include:
 4. Anomaly detection
 5. Opinion mining
 
-Main reference is the Pycaret official docs(primary source)
+Main reference is the Pycaret official [docs](https://pycaret.readthedocs.io/en/latest/tutorials.html) 
