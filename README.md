@@ -7,3 +7,5 @@ Concepts covered include:
 3. Data pre processing
 4. Anomaly detection
 5. Opinion mining
+
+### Main reference is the Pycaret official docs
